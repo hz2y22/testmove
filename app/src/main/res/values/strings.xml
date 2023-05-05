@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">test move</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">
+        Nice to meet you, come join our studying group!
+        <br><b>Login</b>  if you already have an account. </br>
+        <br><b>Register</b>  to get starded with the app. </br>
+    </string>
+    <string name="illustration_img">Illustration Image</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login_title">login to app</string>
+    <string name="login_sub_title">
+        <font color="#00C9B8"><b>Login</b></font>
+        if you alread have an account.
+    </string>
+    <string name="login_email">Your email or username</string>
+    <string name="login_password">Your password</string>
+    <string name="login_forgot_pw">Forgot Password?</string>
+
+    <string name="login_have_account">
+        I do not have an account
+        <font color="#00C9B8"><b>Register</b></font>
+    </string>
+
+    <string name="registe_title">Create an account</string>
+
+    <string name="register_sub_title">
+        <font color="#00C9B8"><b>Register</b></font>
+        to get starded with the app.
+    </string>
+    <string name="register_fullname">Your fullname</string>
+    <string name="register_email">Your email</string>
+    <string name="register_username">Your username</string>
+    <string name="register_confirm_password">Confirm Password</string>
+
+    <string name="register_have_account">
+        I already have an account
+        <font color="#00C9B8"><b>Login</b></font>
+    </string>
+    <string name="register_identity">
+        <font color="#00C9B8"><b>Identity Choice</b></font>
+        please choose your identity.
+
+    </string>
+    <string name="teacher_add_course">create Course</string>
+    <string name="teacher_manage_all_course">Manage All Course</string>
+    <string name="teacher_all_activities"> all my activities</string>
+    <string name="teacher_login_detail">edit login detail</string>
+    <string name="teacher_logout">logout</string>
+    <string name="teacher_create_course">Create Course</string>
+    <string name="create_course_sub_content">
+        <font color="#00C9B8"><b>Create</b></font>
+         a new course for learners
+    </string>
+    <string name="sub_course_ID">
+        <font color="#00C9B8"><b>ID: </b></font>
+         course number
+    </string>
+
+    <string name="sub_course_name">
+        <font color="#00C9B8"><b>course name </b></font>
+    </string>
+    <string name="course_introduction">
+        <font color="#00C9B8"><b>Course Introduction</b></font>
+    </string>
+    <string name="teacher_course_detail">course detail</string>
+    <string name="teacher_please">
+        <font color="#00C9B8"><b>please</b></font>
+        choose the appropriate action
+    </string>
+    <string name="activity_detail">activity detail</string>
+
+    <string-array name="register_identity_chioce">
+        Identity chioce
+        <item>Learner</item>
+        <item>Educater</item>
+    </string-array>
+
+
+</resources>

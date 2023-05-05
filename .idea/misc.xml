@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5703125" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/drawable/bg_button.xml" value="0.5703125" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/drawable/bg_text_field.xml" value="0.5703125" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/drawable/ic_account.xml" value="0.5703125" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5703125" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/drawable/theme8_bg_chat.xml" value="0.5703125" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/drawable/theme8_bg_chat_history.xml" value="0.5703125" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/drawable/theme8_bg_circle_dot.xml" value="0.5703125" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_course_detail.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_create.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_create_course.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_detail.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_learner_information.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_login.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_register.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_teacher_main.xml" value="0.5" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_teacher_manage_course.xml" value="0.5" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_tmanage_course.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/activity_view_history.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/list_item.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/quiz.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/hz2y22/AndroidStudioProjects/testmove/app/src/main/res/layout/teacher_main.xml" value="0.5541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

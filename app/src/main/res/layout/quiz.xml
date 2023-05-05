@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="5dp"
+        >
+
+        <EditText
+            android:id="@+id/question_area"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:hint="please enter question" />
+        <LinearLayout
+            android:id="@+id/llGeneral"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/question_area"
+            android:layout_marginTop="15dp"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/optionA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    style="@style/Title"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:text="A"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="please enter answer"
+                    android:id="@+id/answera"
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginStart="50dp"
+                android:layout_marginEnd="@dimen/theme8_spacing_standard_new"
+                android:background="@color/white" />
+
+            <LinearLayout
+                android:id="@+id/optionB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    style="@style/Title"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:text="B"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="please enter answer"
+                    android:id="@+id/answerb"
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginStart="50dp"
+                android:layout_marginEnd="@dimen/theme8_spacing_standard_new"
+                android:background="@color/white" />
+
+            <LinearLayout
+                android:id="@+id/optionC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    style="@style/Title"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:text="C"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="please enter answer"
+                    android:id="@+id/answerc"
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginStart="50dp"
+                android:layout_marginEnd="@dimen/theme8_spacing_standard_new"
+                android:background="@color/white" />
+
+            <LinearLayout
+                android:id="@+id/optionD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    style="@style/Title"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:text="D"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="please enter answer"
+                    android:id="@+id/answerd"
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginStart="50dp"
+                android:layout_marginEnd="@dimen/theme8_spacing_standard_new"
+                android:background="@color/white" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_submit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SUBMIT"
+                android:layout_marginTop="15dp"
+                style="@style/ButtonGreen"
+                 />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_back"
+                style="@style/ButtonGreen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="BACK"
+                />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
